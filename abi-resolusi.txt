@@ -1,6 +1,0 @@
-abi resolusi
-  - Mahir Bahasa Program PHP
-  - Mahir Bahasa Program Js
-  - Mahir Git dan Github
-  - Menjadi Wirausaha
-  
