@@ -9,6 +9,7 @@ Resolusi Ku Setiap Saat :
   - Menguasai NodeJS
   - Menguasai Penggunaan MongoDB
   - Menguasai Pengunaan React
+  - Menguasai Express js
   
   Aamiin ya allah...
   
