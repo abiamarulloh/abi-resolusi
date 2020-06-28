@@ -10,6 +10,9 @@ Resolusi Ku Setiap Saat :
   - Menguasai Penggunaan MongoDB
   - Menguasai Pengunaan React
   - Menguasai Express js
+  - Mahir bahasa program Python
+  - Mahir Framework Django
+  - Bisa bekerja di startup ternama
   
   Aamiin ya allah...
   
